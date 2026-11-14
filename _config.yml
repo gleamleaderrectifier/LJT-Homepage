@@ -9,7 +9,7 @@ baseurl: "/LJT-Homepage"
 repository: "gleamleaderrectifier/LJT-Homepage"
 
 author:
-  avatar:
+  avatar: "profile.svg"
   name: "Junteng Liu"
   pronouns:
   bio: "First-year PhD candidate at the HKUST NLP Group. Research focuses on natural language processing and machine learning."
